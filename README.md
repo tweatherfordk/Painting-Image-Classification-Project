@@ -1,1 +1,1 @@
-# Painting-Image_Classification-Project
+# Painting-Image-Classification-Project
