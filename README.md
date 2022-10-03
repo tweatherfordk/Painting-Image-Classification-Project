@@ -1,1 +1,1 @@
-# Phase-3-Categorization-Project
+# Painting-Image_Classification-Project
