@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 #pickle files, big ones need to extract the image data
-.pkl
+*.pkl
+*.csv
