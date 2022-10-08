@@ -1,5 +1,4 @@
 # Art Style Image Classification Project
-
 ![Painting Example](https://user-images.githubusercontent.com/110851861/194657326-a9be4d6a-d7f5-42e0-bb7c-98ef1f63bcbc.jpg)
 
 ## Overview
