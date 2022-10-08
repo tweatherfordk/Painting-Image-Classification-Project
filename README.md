@@ -31,10 +31,10 @@ Entropy (an information theory metric that measures the impurity or uncertainty 
 
 ## Model Conclusions:
 
+A Random Forest model with a maximum depth of 24 nodes and 40 estimator trees yielded the best model, which produced accuracy, precision, recall, and F1 scores of 0.92. Effectively, the model can detect whether the image is either in the Iconogrpahy or Painting style 92% of the time, which improves along the baseline Logisitic Regression model which classified correctly 81% of the time. The most important features for prediction were Red Channel Skew, Y HOG Variance, X HOG Variance, Green Channel Skew, and Red Channel Kurtosis.
+
 Example Decision Tree within Final Model:
 ![rf_individualtree](https://user-images.githubusercontent.com/110851861/194677042-bfc9c641-ee68-48d5-91d6-9b4fabd9dc6a.png)
-
-A Random Forest model with a maximum depth of 24 nodes and 40 estimator trees yielded the best model, which produced accuracy, precision, recall, and F1 scores of 0.92. Effectively, the model can detect whether the image is either in the Iconogrpahy or Painting style 92% of the time, which improves along the baseline Logisitic Regression model which classified correctly 81% of the time. The most important features for prediction were Red Channel Skew, Y HOG Variance, X HOG Variance, Green Channel Skew, and Red Channel Kurtosis.
 
 ## Future Work
  
